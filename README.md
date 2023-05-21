@@ -9,6 +9,16 @@ Welcome to the Microfinance Simple Interest Calculator project! This open source
 
 This project serves as a starting point for transitioning from Subversion (SVN) to Git for managing code in our microfinance startup. By hosting the sample code on GitHub and following best practices introduced in this course, we aim to foster collaboration, attract contributors, and create a welcoming environment for the community.
 
+```bash
+    A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
+    Input:
+       p, principal amount
+       t, time period in years
+       r, annual rate of interest
+    Output
+       simple interest = p*t*r
+```
+
 ## Features
 
 - Calculate simple interest for microfinance transactions.
