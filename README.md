@@ -19,14 +19,14 @@ This project serves as a starting point for transitioning from Subversion (SVN) 
 To get started with the Microfinance Simple Interest Calculator, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Review the [CONTRIBUTING.md](./CONTRIBUTING.md) file for guidelines on how to contribute to this project.
-3. Familiarize yourself with the [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md), which outlines the expected behavior within the project community.
+2. Review the [CONTRIBUTING.md](https://github.com/hashmuke/github-final-project/blob/main/CONTRIBUTING.md) file for guidelines on how to contribute to this project.
+3. Familiarize yourself with the [CODE_OF_CONDUCT.md](https://github.com/hashmuke/github-final-project/blob/main/CODE_OF_CONDUCT.md), which outlines the expected behavior within the project community.
 4. Read the documentation and explore the source code to understand how simple interest calculations are performed.
 5. Customize the code or integrate it into your own microfinance projects as needed.
 
 ## Contributing
 
-We welcome contributions from the community to improve and enhance the Microfinance Simple Interest Calculator. If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](./CONTRIBUTING.md) file. We appreciate your time and effort in making this project better.
+We welcome contributions from the community to improve and enhance the Microfinance Simple Interest Calculator. If you would like to contribute, please follow the guidelines outlined in the [CONTRIBUTING.md](https://github.com/hashmuke/github-final-project/blob/main/CONTRIBUTING.md) file. We appreciate your time and effort in making this project better.
 
 ## Code of Conduct
 
